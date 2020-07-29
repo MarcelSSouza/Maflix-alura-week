@@ -102,6 +102,10 @@
     {
       "titulo": "América Central",
       "cor": "orange",
+      "link_extra": {
+        "text": "Para conhecer mais da Améria Central",
+        "url": "https://www.youtube.com/results?search_query=asia+turismo"
+      },
       "videos": [
         {
           "titulo": "Cheguei no Panamá",
