@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import Home from './components/pages/Home/App';
-import { Link, Route, Switch, BrowserRouter as Router } from 'react-router-dom'
+import {  Route, Switch, BrowserRouter as Router } from 'react-router-dom'
 import CadastroVideo from './components/pages/cadastro/Video';
 import Erro from './components/pages/404/index'
 import CadastroCategoria from './components/pages/cadastro/Categoria';

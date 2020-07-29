@@ -1,4 +1,4 @@
-import React from 'react'
+
 import styled from "styled-components"
 
 //Passamos uma constante que recebe o styled + a TAG HTML//
@@ -21,7 +21,6 @@ const Button = styled.a`
 &:focus {
   opacity: .5;
 }
-
 
 `;
 
