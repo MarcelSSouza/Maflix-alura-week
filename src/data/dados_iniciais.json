@@ -1,183 +1,183 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "América do Sul",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Para conhecer mais da América do Sul",
+        "url": "https://www.youtube.com/results?search_query=america+do+sul+viagem"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "América do Sul: Países pra você se apaixonar!",
+          "url": "https://www.youtube.com/watch?v=oeCzrAE_yMA"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Quanto custa um Mochilão pela América do Sul?",
+          "url": "https://www.youtube.com/watch?v=RDpMuAtNyow"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Países baratos para viajar- Lisos Poraí",
+          "url": "https://www.youtube.com/watch?v=9lmLulajyC4"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "5 erros do mochilão pela América do Sul",
+          "url": "https://www.youtube.com/watch?v=HNJkV0bTKc0"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Top 10 destinos do Peru",
+          "url": "https://www.youtube.com/watch?v=CTZwKli5rCQ&t=932s"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Top 10 destinos do Chile",
+          "url": "https://www.youtube.com/watch?v=E_mzN-fHomE&t=517s"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "10 lugares mais impressionantes da América do Sul",
+          "url": "https://www.youtube.com/watch?v=XCdssloINEY"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Viagem de Moto pela América do Sul",
+          "url": "https://www.youtube.com/watch?v=60OyzT4UKys"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Europa",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Para conhecer mais da Europa",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "10 lugares mais incríveis da Europa",
+          "url": "https://www.youtube.com/watch?v=6rPzEFSDC8s"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Europa Roteiros- Vai por Mim",
+          "url": "https://www.youtube.com/watch?v=k9RQYgKZraU"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "10 países mais baratos da Europa",
+          "url": "https://www.youtube.com/watch?v=MzVFrIkFFSg&t=323s"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Como viver anos na Europa como turista",
+          "url": "https://www.youtube.com/watch?v=9BO6bldjTUo"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Como viajar 30 dias na Europa com 4.000 reais",
+          "url": "https://www.youtube.com/watch?v=Es3BUE6I5WA"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Oceania",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Para conhecer mais da Oceania",
+        "url": "https://www.youtube.com/results?search_query=oceania+viagem"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Uma Viagem pela Oceania",
+          "url": "https://www.youtube.com/watch?v=JwnYJzta8Gs"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Quanto custa viajar pela Nova Zelândia?",
+          "url": "https://www.youtube.com/watch?v=mBvp6BkAgvM"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "9 dicas preciosas de viagem para a Austrália",
+          "url": "https://www.youtube.com/watch?v=Xpi_fsXFaKw"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Como é o voo do Braisl para a Austrália?",
+          "url": "https://www.youtube.com/watch?v=jtFF28qTolU"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "América Central",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Cheguei no Panamá",
+          "url": "https://www.youtube.com/watch?v=3GyuugC36i8"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Quanto custa viajar na Costa Rica?",
+          "url": "https://www.youtube.com/watch?v=RAvOoRpaJr4&t=544s"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Belize- Caribe na América",
+          "url": "https://www.youtube.com/watch?v=YUTlDzWbmds"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Dicas para viajar pela Nicarágua",
+          "url": "https://www.youtube.com/watch?v=NHYm9FYmHsw&t=228s"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Ásia",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Para conhecer mais da Ásia",
+        "url": "https://www.youtube.com/results?search_query=asia+turismo"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Dicas de onde ir no Sudeste Asiático",
+          "url": "https://www.youtube.com/watch?v=cfvE2IaDCW0"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "10 lugares mais incríveis da Ásia",
+          "url": "https://www.youtube.com/watch?v=WPlil1EUgvg"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "A história do Taj Mahal",
+          "url": "https://www.youtube.com/watch?v=K7VFtHYeggg"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Bangkok, dicas do que visitar",
+          "url": "https://www.youtube.com/watch?v=fzUUaIMcX6A"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Turismo em Brunei- O país governado por um sultão.",
+          "url": "https://www.youtube.com/watch?v=gVGiK4Wnv3o"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "América do Norte",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Para conhecer mais da América do Norte",
+        "url": "https://www.youtube.com/results?search_query=America+do+Norte+turismo"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "10 Lugares para visitar nos EUA",
+          "url": "https://www.youtube.com/watch?v=47CH2W1PXig"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "O que fazer em Boston em 1 dia?",
+          "url": "https://www.youtube.com/watch?v=n4sLzgg-w8E"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Cidade do México- Viaje Comigo",
+          "url": "https://www.youtube.com/watch?v=p7GvN_LKaMU"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "O que fazer em Cancun? Top 10 pontos turísticos",
+          "url": "https://www.youtube.com/watch?v=6Xo2doDCzjI"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Turismo no Canadá| Dicas de roteiros e cidades",
+          "url": "https://www.youtube.com/watch?v=lfcxkLTJPXo"
         }
       ]
     }
