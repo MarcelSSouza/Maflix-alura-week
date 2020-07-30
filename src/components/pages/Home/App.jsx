@@ -1,19 +1,19 @@
 import React from 'react';
-import Menu from '../../Menu'
+import Menu from '../../Menu';
 import dadosIniciais from '../../../data/dados_iniciais.json';
 import BannerMain from '../../BannerMain';
-import Carousel from '../../Carousel';
+import Carousel from '../../Carousel/index.jsx';
 import Footer from '../../Footer';
 
 function Home() {
   return (
-    <div style={{ background: "#141414" }}>
+    <div style={{ background: '#141414' }}>
       <Menu />
 
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"Descubra lugares incríveis na América do Sul e descubra o próximo destino das suas férias"}
+        videoDescription="Descubra lugares incríveis na América do Sul e descubra o próximo destino das suas férias"
       />
 
       <Carousel
@@ -27,19 +27,19 @@ function Home() {
 
       <Carousel
         category={dadosIniciais.categorias[2]}
-      />      
+      />
 
       <Carousel
         category={dadosIniciais.categorias[3]}
-      />      
+      />
 
       <Carousel
         category={dadosIniciais.categorias[4]}
-      />      
+      />
 
       <Carousel
         category={dadosIniciais.categorias[5]}
-      />      
+      />
 
       <Footer />
     </div>

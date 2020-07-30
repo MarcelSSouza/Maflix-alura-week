@@ -1,7 +1,6 @@
+import styled from 'styled-components';
 
-import styled from "styled-components"
-
-//Passamos uma constante que recebe o styled + a TAG HTML//
+// Passamos uma constante que recebe o styled + a TAG HTML//
 const Button = styled.a`
   color: var(--white);
   border: 1px solid var(--white);
