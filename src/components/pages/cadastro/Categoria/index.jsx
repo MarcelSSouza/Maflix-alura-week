@@ -1,7 +1,10 @@
-import React, { useState } from 'react';
+/* eslint-disable react/no-array-index-key */
+/* eslint-disable react/jsx-no-undef */
+import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import FormField from '../../../FormField';
 import PageDefault from '../../../PageDefault';
+import Button from '../../../Button';
 
 function CadastroCategoria() {
   const valoresIniciais = {
@@ -9,14 +12,14 @@ function CadastroCategoria() {
     descricao: '',
     cor: '',
   };
-
   const [categorias, setCategorias] = useState([]);
   const [values, setValues] = useState(valoresIniciais);
 
   function setValue(chave, valor) {
+    // chave: nome, descricao, bla, bli
     setValues({
       ...values,
-      [chave]: valor,
+      [chave]: valor, // nome: 'valor'
     });
   }
 
@@ -27,6 +30,23 @@ function CadastroCategoria() {
     );
   }
 
+  // ============
+
+  useEffect(() => {
+    if (window.location.href.includes('localhost')) {
+      const URL = 'http://localhost:8080/categorias';
+      fetch(URL)
+        .then(async (respostaDoServer) => {
+          if (respostaDoServer.ok) {
+            const resposta = await respostaDoServer.json();
+            setCategorias(resposta);
+            return;
+          }
+          throw new Error('Não foi possível pegar os dados');
+        });
+    }
+  }, []);
+
   return (
     <PageDefault>
       <h1>
@@ -36,6 +56,7 @@ function CadastroCategoria() {
 
       <form onSubmit={function handleSubmit(infosDoEvento) {
         infosDoEvento.preventDefault();
+
         setCategorias([
           ...categorias,
           values,
@@ -91,16 +112,15 @@ function CadastroCategoria() {
           </label>
         </div> */}
 
-        <button type="button">
+        <Button>
           Cadastrar
-        </button>
+        </Button>
       </form>
 
       <ul>
         {categorias.map((categoria, indice) => (
-          // eslint-disable-next-line react/no-array-index-key
           <li key={`${categoria}${indice}`}>
-            {categoria.nome}
+            {categoria.titulo}
           </li>
         ))}
       </ul>
